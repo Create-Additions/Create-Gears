@@ -1,0 +1,9 @@
+{
+  "block.creategears.fully_encased_chain_drive": "Transmisión por cadena completamente encapsulada",
+  "block.creategears.gear": "Engranaje pequeño sin eje",
+  "block.creategears.half_shaft_gear": "Engranaje de medio eje",
+  "block.creategears.large_gear": "Engranaje grande sin eje",
+  "block.creategears.large_half_shaft_gear": "Engranaje grande de medio eje",
+  "block.creategears.simple_gearshift": "Cambio de marchas simple",
+  "itemGroup.creategears": "Create Gears"
+}
