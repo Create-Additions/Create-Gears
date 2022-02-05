@@ -1,0 +1,15 @@
+{
+  "block.creategears.fully_encased_chain_drive": "Цепной привод под корпусом",
+
+  "block.creategears.gear": "Шестерёнка без вала",
+  
+"block.creategears.half_shaft_gear": "Шестерёнка с коротким валом",
+  
+"block.creategears.large_gear": "Шестерня без вала",
+  
+"block.creategears.large_half_shaft_gear": "Шестерня с коротким валом",
+  
+"block.creategears.simple_gearshift": "Простой реверсивный механизм",
+  
+"itemGroup.creategears": "Create: Шестерни"
+}
